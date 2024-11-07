@@ -30,10 +30,10 @@
     "babel-plugin-react-compiler": "0.0.0-experimental-48eb8f4-20240822",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.2",
-    "next": "15.0.0-canary.104",
+    "next": "15.0.0-canary.160",
     "payload": "3.0.0-beta.108",
-    "react": "19.0.0-rc-06d0b89e-20240801",
-    "react-dom": "19.0.0-rc-06d0b89e-20240801",
+    "react": "19.0.0-rc-5dcb0097-20240918",
+    "react-dom": "19.0.0-rc-5dcb0097-20240918",
     "sharp": "0.32.6"
   },
   "devDependencies": {
@@ -54,5 +54,6 @@
   "overrides": {
     "@types/react": "npm:types-react@19.0.0-rc.0",
     "@types/react-dom": "npm:types-react-dom@19.0.0-rc.0"
-  }
+  },
+  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee"
 }
